@@ -1,0 +1,15 @@
+# humanstxt.org
+
+# TEAM 
+Mads Ganderup Jacobsen
+
+# THANKS
+Flaticon - 1 icon
+
+# TECHNOLOGY
+Visual Studio Code
+
+# HOSTING
+Google
+Simply.com
+
