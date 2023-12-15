@@ -727,7 +727,7 @@ height: auto;
     font-family: "gelica", sans-serif;
     font-weight: 400;
     font-style: italic;
-    font-size: 60px;
+    font-size: 100px;
     text-align: center;
 }
 .produktionen-bryggeri{
@@ -947,12 +947,12 @@ height: auto;
 }
 
 h1.anmeldelser-side-overskrift{
-    margin-top: 150px;
+    margin-top:200px;
     color: #AFFC41;
     font-family: "gelica", sans-serif;
     font-weight: 400;
     font-style: italic;
-    font-size: 60px;
+    font-size: 100px;
     text-align: center;
     margin-right: -70px;
 }
@@ -1160,7 +1160,7 @@ img.anmeldelse-2{
         .overskrift {
           width: 100%;
           font-size: 40px;
-          margin-top: 100px;
+          margin-top: 150px;
         }
 
         .logo{
@@ -1565,6 +1565,7 @@ main .produkter-overskrift{
     font-style: italic;
     font-size: 30px;
     text-align: center;
+    margin-top: 150px;
 }
 
 .produkt-1{
@@ -2257,7 +2258,7 @@ height: auto;
         .overskrift {
             width: 100%;
             font-size: 40px;
-            margin-top: 100px;
+            margin-top: 150px;
           }
   
           .logo{
@@ -2667,6 +2668,7 @@ height: auto;
         font-style: italic;
         font-size: 50px;
         text-align: center;
+        margin-top: 150px;
     }
     
     .produkt-1{
